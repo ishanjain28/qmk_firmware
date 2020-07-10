@@ -167,3 +167,5 @@
 //#define NO_ACTION_MACRO
 //#define NO_ACTION_FUNCTION
 
+
+#define TAPPING_TERM 120
